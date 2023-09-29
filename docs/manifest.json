@@ -481,7 +481,8 @@
         [
           ["Organization", "/references/javascript/organization/organization"],
           ["Members", "/references/javascript/organization/members"],
-          ["Invitations", "/references/javascript/organization/invitations"]
+          ["Invitations", "/references/javascript/organization/invitations"],
+          ["Domains", "/references/javascript/organization/domains"]
         ]
       ],
       [
@@ -491,6 +492,10 @@
       [
         "Organization Membership",
         "/references/javascript/organization-membership"
+      ],
+      [
+        "Organization Domain",
+        "/references/javascript/organization-domain"
       ],
       ["Session", "/references/javascript/session"],
       [
@@ -572,7 +577,8 @@
           ["MagicLinkError", "/references/javascript/types/magic-link-error"],
           ["DeletedObject", "/references/javascript/types/deleted-object"],
           ["OAuthProvider", "/references/javascript/types/oauth-provider"],
-          ["OAuthStrategy", "/references/javascript/types/oauth-strategy"]
+          ["OAuthStrategy", "/references/javascript/types/oauth-strategy"],
+          ["PaginatedResponse", "/references/javascript/types/paginated-response"]
         ]
       ]
     ]
